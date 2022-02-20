@@ -2,7 +2,7 @@
 
 ```
 Muhammad Saffi - cs181074
-Muhammad Shariq - cs181083RT
+Muhammad Shariq - cs181083
 Muhammad Nouman Akhar - cs192043
 ```
 
